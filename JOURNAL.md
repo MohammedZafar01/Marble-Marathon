@@ -17,7 +17,7 @@
 1. [2026-10-16 – Today I did research on the new project and I decided to start making a new 3D model using Autodesk Fusion and today I tested out the timelapses.By accident while 3d modelling I created a full model u](#2026-10-16-today-i-did-research-on-the-new-project-and-i-dec)
 2. [2026-10-17 – Today I had built the tracks for the marble to roll in for my project Marble Marathon and I have also built a small box so that when the marble is finished completing the track it will fall inside the](#2026-10-17-today-i-had-built-the-tracks-for-the-marble-to-ro)
 3. [2026-10-18 – Today I made the ending to my Marble Marathon project where the marble finally comes to a stop.I also simulated it in blender which is the second timelapse.The only thing to do now is to assemble ever](#2026-10-18-today-i-made-the-ending-to-my-marble-marathon-pro)
-4. [2026-10-18 – I worked on the final assembly to finish my Marble marathon project.It is now finished and I have uploaded it to my github.The other 0.2 hr I spent on simulating in Blender but I forgot to Lapse it.Wi](#2026-10-18-i-worked-on-the-final-assembly-to-finish-my-marbl)
+4. [2026-10-18 – ![Screenshot 2026-10-18 191950](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/AE1TFaHp83rDDHG1zJaNj6l9brevkswj/c42615a3258c18b35f2a8b04cb361c3cd34d83a9a0d5f632db7d1d103f5229b1.png)](#2026-10-18-screenshot-2026-10-18-191950httpshalflifehackclub)
 
 ## Design
 
@@ -63,10 +63,14 @@ Today I made the ending to my Marble Marathon project where the marble finally c
 
 [Timelapse](https://lookout.hackclub.com/api/media/256459cf-dd2b-4fb0-9ad1-5f913a8c4bc0/video.mp4)
 
-### 2026-10-18 – I worked on the final assembly to finish my Marble marathon project.It is now finished and I have uploaded it to my github.The other 0.2 hr I spent on simulating in Blender but I forgot to Lapse it.Wi
+### 2026-10-18 – ![Screenshot 2026-10-18 191950](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/AE1TFaHp83rDDHG1zJaNj6l9brevkswj/c42615a3258c18b35f2a8b04cb361c3cd34d83a9a0d5f632db7d1d103f5229b1.png)
 
 **0.95h**
 
+![Screenshot 2026-10-18 191950](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/AE1TFaHp83rDDHG1zJaNj6l9brevkswj/c42615a3258c18b35f2a8b04cb361c3cd34d83a9a0d5f632db7d1d103f5229b1.png)
+
 I worked on the final assembly to finish my Marble marathon project.It is now finished and I have uploaded it to my github.The other 0.2 hr I spent on simulating in Blender but I forgot to Lapse it.Will remember to do that from next time
+
+![Screenshot 2026-10-18 190414](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/AE1TFaHp83rDDHG1zJaNj6l9brevkswj/d7f4a5fb5c3e6187215fd703e03f53f7e3275dc292d714ebd67d3de0869dc191.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/108e2ce2-c489-4d4c-b75e-cac5ae71f68d/video.mp4)
