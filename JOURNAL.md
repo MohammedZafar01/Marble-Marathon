@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 8.06h | 4 |
+| Week 2 | Tier 1 | 8.01h | 4 |
 
 ## Contents
 
@@ -51,7 +51,7 @@ Today I had built the tracks for the marble to roll in for my project Marble Mar
 
 ### 2026-10-18 – Today I made the ending to my Marble Marathon project where the marble finally comes to a stop.I also simulated it in blender which is the second timelapse.The only thing to do now is to assemble ever
 
-**2.38h**
+**2.33h**
 
 Today I made the ending to my Marble Marathon project where the marble finally comes to a stop.I also simulated it in blender which is the second timelapse.The only thing to do now is to assemble everything in Autodesk fusion
 
