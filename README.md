@@ -1,3 +1,6 @@
 Marble Marathon is a completed engineering project built for Hack Club Half Life. It is a marble run machine designed using Autodesk Fusion, featuring connected tracks and that allow a marble to travel through the system using gravity and momentum. The project involved CAD modelling, designing track geometry, and building a functional mechanism that combines creativity, physics, and mechanical engineering. Through Marble Marathon, I explored how digital designs can be transformed into real-world creations while learning about prototyping, problem-solving, and iterative design.
 <img width="848" height="552" alt="Screenshot 2026-10-18 191950" src="https://github.com/user-attachments/assets/460b4661-7cbb-47f2-9583-c78480e9b932" />
 <img width="1287" height="792" alt="Screenshot 2026-10-18 163858" src="https://github.com/user-attachments/assets/b8f72228-cb00-46bf-ac1b-b7b5fb1fcef0" />
+I want to 3D print Marble Marathon to turn my CAD design into a real, working marble run.
+Printing it will help me demonstrate how gravity, momentum, and track geometry work together.
+I also want to showcase my engineering skills, creativity, and what I learned through Hack Club Half Life.
